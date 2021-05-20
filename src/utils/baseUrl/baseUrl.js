@@ -1,0 +1,10 @@
+export const ApiBaseUrl = 'http://159.89.20.152:81/';
+export const InviteUrl = 'http://159.89.20.152/';
+export const SocketUrl = 'ws://159.89.20.152:81/';
+export const FatSecretBaseUrl = 'http://159.89.20.152:81/';
+// export const LoginUrl = "#";
+// export const RecruitWizardBaseUrl = "#";
+// export const ApiBaseUrl = "https://api.gitfit.us/";
+// export const InviteUrl = "https://app.gitfit.us/";
+// export const SocketUrl = "wss://api.gitfit.us/";
+// export const FatSecretBaseUrl = "http://157.230.206.161:81/";
